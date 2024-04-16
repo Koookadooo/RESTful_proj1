@@ -1,0 +1,12 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "yelp review type app",
+  "main": "server.js",
+  "scripts": {
+    "test": "./runtests.sh",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
